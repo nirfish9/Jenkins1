@@ -16,4 +16,4 @@ Nov  6 03:58:57 ubuntu NetworkManager[859]: INFO  [1604663937.5743] dhcp4 (ens33
 Nov  6 03:58:57 ubuntu NetworkManager[859]: WARNING  [1604663937.5743] dhcp4 (ens33): option requested_nis_domain => '1'
 Nov  6 03:58:57 ubuntu NetworkManager[859]: INFO  [1604663937.5743] dhcp4 (ens33): option requested_nis_servers => '1'
 Nov  6 03:58:57 ubuntu NetworkManager[859]: INFO  [1604663937.5743] dhcp4 (ens33): option requested_ntp_servers => '1'
-Nov  6 03:58:57 ubuntu NetworkManager[859]: ERROR  [1604663937.5743] dhcp4 (ens34): option requested_rfc3442_classless_static_routes => '1'
+Nov  6 03:58:57 ubuntu NetworkManager[859]: INFO  [1604663937.5743] dhcp4 (ens34): option requested_rfc3442_classless_static_routes => '1'
