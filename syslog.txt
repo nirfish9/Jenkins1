@@ -1,6 +1,6 @@
 Nov  6 03:58:57 ubuntu NetworkManager[859]: INFO  [1604663937.5645] device (ens33): carrier: link connected
 Nov  6 03:58:57 ubuntu NetworkManager[859]: WARNING  [1604663937.5647] device (ens33): DHCPv4 lease renewal requested
-Nov  6 03:58:57 ubuntu NetworkManager[859]: ERROR  [1604663937.5649] dhcp4 (ens33): state changed extended -> done
+Nov  6 03:58:57 ubuntu NetworkManager[859]: INFO  [1604663937.5649] dhcp4 (ens33): state changed extended -> done
 Nov  6 03:58:57 ubuntu NetworkManager[859]: INFO  [1604663937.5677] dhcp4 (ens33): activation: beginning transaction (timeout in 45 seconds)
 Nov  6 03:58:57 ubuntu NetworkManager[859]: INFO  [1604663937.5741] dhcp4 (ens33): option dhcp_lease_time      => '1800'
 Nov  6 03:58:57 ubuntu NetworkManager[859]: INFO  [1604663937.5742] dhcp4 (ens33): option domain_name          => 'localdomain'
